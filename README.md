@@ -10,3 +10,4 @@ For a row which position is a multiple of 3 make the background of the row this 
 for every 5th row make the background this color: #8AA6E5, and for rows that are a multiple of both
 change the background color to #262E40.
 
+You can add your code on the `css/app.css` file.
