@@ -1,0 +1,12 @@
+tr:nth-child(5n):nth-child(3n){
+  background: #262E40;
+  color:white;
+}
+
+tr:nth-child(3n){
+  background: #6276A3;
+}
+
+tr:nth-child(5n){
+  background: #8AA6E5;
+}
